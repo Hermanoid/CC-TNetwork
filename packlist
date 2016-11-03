@@ -1,1 +1,9 @@
-
+name = TurtleControl
+  type = raw
+    url = https://raw.githubusercontent.com/Hermanoid/CC-TNetwork/master/Turtle/TurtleControl.lua
+    filename = TurtleControl
+  dependencies = none
+  category = slave turtle
+  version = 0.01
+  size = 312
+end
