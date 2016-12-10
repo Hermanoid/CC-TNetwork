@@ -2,6 +2,7 @@
 <XmlLuaProjectDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Documents>
     <DocumentRef FileName=".\TurtleControl.lua" />
+    <DocumentRef FileName=".\FakeTurtle.lua" />
   </Documents>
   <DocumentGroups />
   <DocumentFolders />
@@ -15,5 +16,6 @@
     <BuildOutputDir />
     <PreBuildEventCmdLine />
     <PostBuildEventCmdLine />
+    <RunPostBuildEvent>Always</RunPostBuildEvent>
   </ProjectProperties>
 </XmlLuaProjectDocument>
