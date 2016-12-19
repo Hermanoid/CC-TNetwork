@@ -7,3 +7,13 @@ name = TurtleControl
   version = 0.01
   size = 312
 end
+
+name = TestTurtle
+	type = raw
+		url = https://raw.githubusercontent.com/Hermanoid/CC-TNetwork/master/Turtle/TestTurtle.lua
+		filename = TestTurtle
+	dependencies = none
+	category = test turtle
+	version = 0.01
+	size = 2282
+end

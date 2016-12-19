@@ -324,11 +324,3 @@ config.CommandBlockPeripheral.runCommandResponseF = function(command)
 	 	print("But I don't know what to do!")
 	 end
 end
-commandBlock = CommandBlock:new()
-print(commandBlock:getCommand())
-commandBlock:setCommand("Do Stuff")
-print(commandBlock:getCommand())
-commandBlock:runCommand()
-commandBlock:setCommand("Do Work")
-print(commandBlock:getCommand())
-commandBlock:runCommand()

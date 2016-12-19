@@ -3,6 +3,7 @@
   <Documents>
     <DocumentRef FileName=".\TurtleControl.lua" />
     <DocumentRef FileName=".\FakeTurtle.lua" />
+    <DocumentRef FileName=".\TestTurtle.lua" />
   </Documents>
   <DocumentGroups />
   <DocumentFolders />
